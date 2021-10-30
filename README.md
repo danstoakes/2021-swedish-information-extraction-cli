@@ -1,6 +1,8 @@
 # Swedish Information Extraction Tool
 A command line information extraction tool which works with Swedish text. The tool performs various natural language processing tasks, such as parsing, named entity recognition and information extraction. Swedish text can either be input using custom files in the `input_data` directory, or sample data generated from the SUC 3.0 corpus in `training_data`.
 
+This tool was written alongside my undergraduate level dissertation which explored Natural Language Processing for Swedish text.
+
 # Installation
 In order to use the tool, various packages need to be installed. It is recommended that the package installer, pip, is used for this process. Installation can be achieved using the following command:
 
