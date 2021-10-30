@@ -10,7 +10,7 @@ In order to use the tool, various packages need to be installed. It is recommend
 
 Once the packages are installed, the tool can be ran using the command:
 
-`$ python3 swedish_information_extraction mode source`
+`$ python3 sv_information_extraction mode source`
 
 mode can be either: `parse` for the parser module, `ner` for the ner module, or `ie` for the information extraction module.
 
