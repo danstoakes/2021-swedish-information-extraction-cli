@@ -1,0 +1,5 @@
+###### Requirements with Version Specifiers ######
+nltk == 3.5.0
+spaCy == 2.3.5
+pandas == 1.2.3
+lemmy == 2.1.0
